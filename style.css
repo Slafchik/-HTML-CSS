@@ -23,10 +23,16 @@ h3 {
 
 
 .header {
-  width: 3%;
-  padding: 10px 0;
-  margin-left: 50%;
-  margin-right: 50%;
+  width: 100%;
+  display:flex;
+  justify-content: center;
+}
+
+.logo_s1 {
+  width: 5%;
+  display:block;
+  justify-content: center;
+  Padding-top: 25px;
 }
 
 .hero {
